@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="control_event_value_id" id="6pKj-lS7cgHV(mIIHlA:" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="-3" y="51"><field name="id">EventBusValue.MICROBIT_EVT_ANY</field></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="OLk(1b`*2l|71eZPYb-K" x="0" y="0"></block></xml>
